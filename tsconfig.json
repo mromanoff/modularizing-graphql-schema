@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["dom", "ES2019"],
+    "moduleResolution": "node",
+    "pretty": true,
+    "sourceMap": true,
+    "target": "ES2019",
+    "resolveJsonModule": true,
+    "outDir": "./dist",
+    "rootDir": "src",
+    "allowSyntheticDefaultImports": true,     /* Allow default imports from modules with no default export. This does not affect code emit, just typechecking. */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "/node_modules"
+  ]
+}
