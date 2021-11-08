@@ -13,7 +13,7 @@
   "author": "Michael Romanoff",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.15.1",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.2.0",
     "lodash": "^4.17.15"
   },
